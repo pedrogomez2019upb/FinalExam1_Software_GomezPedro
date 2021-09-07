@@ -1,5 +1,7 @@
 package edu.upb.software.finalExam1.Punto2;
-
+//#######################
+//DESARROLLO PUNTO 2
+//#######################
 public class Personaje implements Cloneable{
     private String tipo;
     private String nombre;
@@ -103,3 +105,4 @@ public class Personaje implements Cloneable{
                 '}';
     }
 }
+//Developed by Pedro Felipe Gómez Bonilla - ID:000396221

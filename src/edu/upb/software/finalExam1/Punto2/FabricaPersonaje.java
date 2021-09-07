@@ -1,5 +1,7 @@
 package edu.upb.software.finalExam1.Punto2;
-
+//#######################
+//DESARROLLO PUNTO 2
+//#######################
 public class FabricaPersonaje {
 
     private Heroe heroe;
@@ -30,3 +32,4 @@ public class FabricaPersonaje {
         return villano.clone();
     }
 }
+//Developed by Pedro Felipe Gómez Bonilla - ID:000396221

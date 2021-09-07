@@ -1,5 +1,7 @@
 package edu.upb.software.finalExam1.Punto2;
-
+//#######################
+//DESARROLLO PUNTO 2
+//#######################
 public class Heroe extends Personaje{
 
     public Heroe(String tipo ,String nombre, String imagen, int altura, int peso, String inteligencia, String habilidades,int index) {
@@ -11,3 +13,4 @@ public class Heroe extends Personaje{
     }
 
 }
+//Developed by Pedro Felipe Gómez Bonilla - ID:000396221

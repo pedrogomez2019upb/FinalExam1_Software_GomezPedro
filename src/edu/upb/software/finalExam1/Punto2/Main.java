@@ -1,7 +1,9 @@
 package edu.upb.software.finalExam1.Punto2;
 
 import java.util.*;
-
+//#######################
+//DESARROLLO PUNTO 2
+//#######################
 public class Main {
 
     public static void main(String[] args) {
@@ -184,6 +186,6 @@ public class Main {
                 }
             }
         }
-        //System.out.println(listaPersonajes);
     }
 }
+//Developed by Pedro Felipe Gómez Bonilla - ID:000396221
