@@ -1,4 +1,4 @@
-package edu.upb.software.finalExam1;
+package edu.upb.software.finalExam1.Punto2;
 
 public class Monstruo extends Personaje{
     public Monstruo(String tipo,String nombre, String imagen, int altura, int peso, String inteligencia, String habilidades,int index) {

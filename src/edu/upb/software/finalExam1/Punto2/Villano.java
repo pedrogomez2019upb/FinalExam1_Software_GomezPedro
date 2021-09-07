@@ -1,4 +1,4 @@
-package edu.upb.software.finalExam1;
+package edu.upb.software.finalExam1.Punto2;
 
 public class Villano extends Personaje{
     public Villano(String tipo,String nombre, String imagen, int altura, int peso, String inteligencia, String habilidades,int index) {

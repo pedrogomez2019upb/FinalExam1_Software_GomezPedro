@@ -1,4 +1,4 @@
-package edu.upb.software.finalExam1;
+package edu.upb.software.finalExam1.Punto2;
 
 public class Personaje implements Cloneable{
     private String tipo;
