@@ -184,6 +184,6 @@ public class Main {
                 }
             }
         }
-        System.out.println(listaPersonajes);
+        //System.out.println(listaPersonajes);
     }
 }
